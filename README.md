@@ -1,4 +1,6 @@
 # Bank_Portuguese_marketing_analysis
+The dataset is from https://data.world/login?next=%2Fdata-society%2Fbank-marketing-data%2Fworkspace%2Ffile%3Ffilename%3Dbank-additional-names.txt
+
 Some extra data cleaning has been done by using Excel, which include data cleaning, outlier treatment, data categorization, and data creation.   
 1 Missing Data:
 There is no missing value in this dataset. However, there are values like “unknown”, and “others”, which are useless. They can be treated as a missing value. 
